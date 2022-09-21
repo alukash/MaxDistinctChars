@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MaxDistinctChars": {
+      "commandName": "Project",
+      "commandLineArgs": "12345121234567895"
+    }
+  }
+}
